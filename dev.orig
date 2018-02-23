@@ -1,10 +1,12 @@
 hi hru 
 wt ru dng
-nw  HEAD
+nw 
+<<<<<<< HEAD
 hello  
-wher r u r
+wher r u ra
+=======
 thi sis modified now 
  ima adding some worde
  in this file
- rlease
+>>>>>>> rlease
 
